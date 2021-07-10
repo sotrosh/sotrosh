@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sotrosh
 - 👀 I’m interested in startups and Swift development
-- 🌱 I’m currently working on Cliperi startup: https://cliperi.com
+- 🌱 I’m currently working on digital collecting platform called "Cliperi" startup: https://cliperi.com
 - 💞️ I’m looking to collaborate with new artists and collectors.
 - 📫 How to reach me: hello@cliperi.com
 
